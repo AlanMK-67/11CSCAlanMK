@@ -22,6 +22,7 @@ ul li a:hover {
   background-color: #111111;
 }
 
+
 div {
   background: rgba(0, 208, 0) /* Green background with 100% opacity */
 }
@@ -46,31 +47,10 @@ h {
   background: rgba(0, 208, 0) /* Green background with 100% opacity */
 }
 
-
-
-
-
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
+img {
+  border-radius: 8px;
 }
 
-ul li {
-  float: left;
-}
 
-ul li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
 
-ul li a:hover {
-  background-color: #111111;
-}
+
