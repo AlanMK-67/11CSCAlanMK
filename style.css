@@ -22,9 +22,12 @@ ul li a:hover {
   background-color: #111111;
 }
 
+body {
+  background-color: lightgreen;
+}
 
 div {
-  background: rgba(0, 208, 0) /* Green background with 100% opacity */
+  background: rgba(21, 255, 79) /* Green background with 100% opacity */
 }
 
 h1 {
