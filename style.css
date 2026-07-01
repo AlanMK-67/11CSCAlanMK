@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #006347;
 }
 
 ul li {
@@ -41,6 +41,8 @@ p {
 h2 {
   font-size: 40px;
 }
+
+h2 {background: rgba(0, 99, 71)}
 
 p {
   font-size: 20px;
